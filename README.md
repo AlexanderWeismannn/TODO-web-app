@@ -1,6 +1,7 @@
-TODO Web app i made for fun to refresh my memeory on Javascript / HTML / CSS. Fully resizeable and saves values locally.
+# TODO Web app:
+Made for fun to refresh my memory on Javascript / HTML / CSS.<br>
+Fully resizeable and saves values locally. Check it out [Here](https://alexanderweismannn.github.io/TODO-web-app/).<br>
+<img src="https://github.com/user-attachments/assets/b6431a7c-610c-4fe9-8167-4c2cb506b94a" alt="TODO Web App" style="width: 30%; height: auto;">
 
-[Website Link](https://alexanderweismannn.github.io/TODO-web-app/)
-![image](https://github.com/user-attachments/assets/f1831755-4488-456b-89d7-ccf515bf8b89)
 
 
